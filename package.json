@@ -1,0 +1,23 @@
+{
+  "name": "back_end_101",
+  "version": "1.0.0",
+  "description": "the back-end part of the project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucamartini/back_end_101.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Luca Martini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucamartini/back_end_101/issues"
+  },
+  "homepage": "https://github.com/lucamartini/back_end_101#readme"
+}
